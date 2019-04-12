@@ -12,6 +12,7 @@ public class test {
         return "lalala";
     }*/
     //小可爱
+    //你才是个小可爱鸭
     public String test() {
         return "index";
     }
